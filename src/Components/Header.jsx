@@ -13,7 +13,7 @@ const Header = () => {
           Lorem ipsum dolor sit amet consectetur adipisicing elit.{" "}
         </p>
         <div className="header-btns">
-          <a href="#" className="header-btn">
+          <a href="/" className="header-btn">
             Order
           </a>
         </div>
